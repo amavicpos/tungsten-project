@@ -1,6 +1,4 @@
 # Tungsten Project
-
-## Overview
 This repository contains an experimental project that analyses the electrical properties of tungsten. Specifically, the dissipation of power versus temperature in this material.
 
 ## Contents
